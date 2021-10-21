@@ -1,6 +1,6 @@
 # CNN-Models-for-Plant-Segmentation
 
-In this project, three encoder-decoder based CNN models are used for segmentation of plants and plant leaves from background
+In this project, three encoder-decoder based CNN models are used for segmentation of plants and plant leaves from background.
 
 CNN Models:
 1. ResUNet
